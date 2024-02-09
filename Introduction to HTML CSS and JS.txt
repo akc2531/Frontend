@@ -1,0 +1,18 @@
+A website consist of HTML, CSS and JS
+
+HTML- Hypertext Markup Language
+CSS - Cascading Styling Sheets
+Js - JavScript
+
+HTML- It is a well standardized system . It act as static skeleton to web application.
+
+CSS- It is used to handle the presentation of Web Page. It make the website to look attractive and beautiful.
+
+JS- It adds scripting on your website and make it completely dynamic in nature.It is a high level dynamic  interpreted programming language.
+
+For example - Car->> Skelton or body acts as html
+Its design --> CSS
+Engine ---> Js
+
+The user or client send a requests to webserver on website . The webserver has its own IP to store all files in the backend which can be written in PHP, Python etc. The web server respond to request in form
+of HTML CSS and JS.
