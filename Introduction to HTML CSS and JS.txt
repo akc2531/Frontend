@@ -16,3 +16,8 @@ Engine ---> Js
 
 The user or client send a requests to webserver on website . The webserver has its own IP to store all files in the backend which can be written in PHP, Python etc. The web server respond to request in form
 of HTML CSS and JS.
+
+Doctype HTML- Doctype HTML justifies that it is a HTML document. So, we are defining specifically for a browser to understand that it is an HTML document. To understand more about the type of documents, you can visit here.
+<html lang= “en”> - It is the opening part of the HTML tag that tells us the language of the document is in English.
+<head> - Head contains all the meta-tags in it which is used to describe the contents of a website. Meta means providing information about information. Therefore, meta tags are used to define the keywords and descriptions on our website. Head also contains the title of the website and all the external files like CSS and JavaScript that we link to it.
+<body> - Body contains all the contents of the webpage in it. However, in the beginning, our website may look a little uglier but after including stylesheets it will start looking attractive. 
